@@ -153,9 +153,9 @@ html, body {
 	background: none !important;
 	background-color: rgba(0,0,0,0.5) !important;
 	border: none !important;
-	-moz-border-radius: 2px 2px 2px 2px;
-	-webkit-border-radius: 2px 2px 2px 2px;
-	border-radius: 2px 2px 2px 2px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
 	font-size: 1em;
 }
 #updater:hover {
@@ -177,20 +177,9 @@ html, body {
 #filter_tab a.off_tab,
 #filter_tab a.off_tab:hover,
 #filter_tab a.filter_selected {
-	color: black !important;
-	background: #AAAAAA;
-	text-decoration: none;
-	font-weight: bold;
 }
 #filter_tab a.off_tab:hover,
 #filter_tab a.filter_selected {
-	background: #AAAAAA; /* Old browsers */
-	background: -moz-linear-gradient(top, #AAAAAA 0%, #FFFFFF 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#AAAAAA), color-stop(100%,#FFFFFF)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top, #AAAAAA 0%,#FFFFFF 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top, #AAAAAA 0%,#FFFFFF 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top, #AAAAAA 0%,#FFFFFF 100%); /* IE10+ */
-	background: linear-gradient(to bottom, #AAAAAA 0%,#FFFFFF 100%); /* W3C */
 }
 
 /* 噗浪單體 */

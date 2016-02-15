@@ -1,7 +1,5 @@
 # NeoPlurkCSS3 #
 
--
-
 [NeoPlurkCSS3 噗浪佈景主題 直接安裝網址](http://www.plurk.com/installDesign/6421740-67a2491cb3 "本噗浪佈景官方安裝連結")  
 ![previewimg](http://i.imgur.com/RvBR0JU.png "佈景實際使用預覽")
 

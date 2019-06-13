@@ -795,3 +795,8 @@ body,
 	-moz-animation-timing-function: ease-out;
 	-moz-animation-duration: 0.5s;
 }
+
+/* Fix response box hidden problem */
+.response-manager {
+  z-index: 830;
+}
